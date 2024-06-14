@@ -1,0 +1,24 @@
+AWS CLOUD = funciona como clente-servidor
+
+Deployment Models 
+    Cloud-Based
+        com o modelo cloud-based voce pode migrar suas aplicações 
+        existentes para a nuvem com um baixo nivel de abstração  
+        requeriando um IT staff para gerenciar isso 
+        
+        mas tambem pode construir unsandi um alto nivel de abstra 
+        ção reduzindo o gerenciamento 
+
+        -roda grande parte da aplicação na nuvem 
+        -migra aplicações existentes para a nuvem 
+        -criação e desing de novas aplicações em nuvem 
+    
+    On-Premisses Deployment 
+        e uma implementação de  nuvem privada , os recrsos sao implatados 
+        localmente com ferramentas de virtualização 
+
+        -implementa a aplicação com recursos de virtualização e ferramentas
+    Hybrid deployment 
+        nessa imklemenacção a nuvem esta conectada a insfraestrutura local
+        pro exemplo quando voce tem que ter sua aplicação no pais de origem 
+         
